@@ -1,3 +1,2 @@
 # springboot_crud
-Basic CRUD with Springboot, frontend using React.js.
-Testing done with Postman.
+Built a RESTful backend using Spring Boot with layered architecture, implementing CRUD operations, input validation, and MongoDB-based data persistence using Spring Data.
